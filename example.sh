@@ -18,5 +18,5 @@ __EOF
 while true ; do
   time_page "epflhome"  "https://www.epfl.ch/"
   time_page "enac"  "https://www.epfl.ch/schools/enac/"
-  sleep 300
+  sleep 10
 done
